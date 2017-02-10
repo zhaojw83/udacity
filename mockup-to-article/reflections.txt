@@ -7,3 +7,21 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+ What new skills have you learned?
+
+ 
+ I have learned some new elements such as sup sub,and learned add alt to img element.And I think this is a meaning html writing.
+
+ What has been easy?
+ 
+ What has been difficult?
+
+ I think memory the element name is more difficult.
+
+ How have you used the problem solving strategies from the first project to overcome challenges so far?
+ 
+ I use bing.com to search the problem solving.
+
+ Thank you very much,all the best for you.
+
+ Mark.
